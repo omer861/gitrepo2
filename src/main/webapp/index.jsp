@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> hello world !! im gonna trigger compile job to host this website to show u manual process </h2>
+<h2> hello world !! this is automation ,it will reflect on production directly after uploading to remote repo </h2>
 </body>
 </html>
